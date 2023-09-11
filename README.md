@@ -31,7 +31,7 @@ https://cv.hexlet.io/ru/resumes/2538
 
 [Data Validator](https://github.com/MarkDementev/Data-validator)
 
-[Diff Finder:](https://github.com/evgeniy1503/java-project-2)
+[Diff Finder:](https://github.com/MarkDementev/Diff-finder)
 
 [Mind Games:](https://github.com/MarkDementev/Mind-games)
 
