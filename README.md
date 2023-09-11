@@ -7,7 +7,7 @@
 
 <b>About me:</b>
 
-:man_student: I am finished my studies at the Hexlet online programming school and and **```looking for a job```**.
+:man_student: I am finished my studies at the Hexlet online programming school and **```looking for a job```**.
 
 <b>My CV:</b>
 
