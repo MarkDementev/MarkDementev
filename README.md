@@ -39,19 +39,19 @@
 <b>My projects:</b>
 
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
-- Task management system.
+- Task management system. It allows you to set tasks, assign performers and change their statuses. Registration and authentication are required to work with the system.
 
 [Page Analyzer](https://github.com/MarkDementev/Page-analyzer)
 - This site analyzes the pages indicated to it for SEO suitability.
  
 [Data Validator](https://github.com/MarkDementev/Data-validator)
-- Library for data validation.
+- Library for data validation. This project contains functionality for strings, numbers and maps validation. Map validation provides structure verification functionality.
 
 [Diff Finder](https://github.com/MarkDementev/Diff-finder)
-- A program to find differences between data in two files.
+- A program to find differences between data in two files. For input files, popular formats are supported - json and yaml. The output of differences is also possible in different versions - plain, stylish and json.
 
 [Mind Games](https://github.com/MarkDementev/Mind-games)
-- A set of five intellectual games controlled via console.
+- A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
 
 <b>My LeetCode stats:</b>
 
