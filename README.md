@@ -11,29 +11,31 @@
 
 <b>My CV:</b>
 
-https://cv.hexlet.io/ru/resumes/2538
+📄 https://cv.hexlet.io/ru/resumes/2538
 
-<b>My contacts:</b>
+<b>Contacts:</b>
 
 - 📧 email: Mark_sur@mail.ru
 - 📱telegram: https://t.me/JavaMarkDem
 
-<b>My skills:</b>
-
+<b>Skills:</b>
 
 <b>My projects:</b>
 
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
 - Task management system.
 
-[Page Analyzer:](https://github.com/MarkDementev/Page-analyzer)
-- This site analyzes the pages indicated to it for SEO suitability. 
-
+[Page Analyzer](https://github.com/MarkDementev/Page-analyzer)
+- This site analyzes the pages indicated to it for SEO suitability.
+ 
 [Data Validator](https://github.com/MarkDementev/Data-validator)
+- Library for data validation.
 
-[Diff Finder:](https://github.com/MarkDementev/Diff-finder)
+[Diff Finder](https://github.com/MarkDementev/Diff-finder)
+- A program to find differences between data in two files.
 
-[Mind Games:](https://github.com/MarkDementev/Mind-games)
+[Mind Games](https://github.com/MarkDementev/Mind-games)
+- A set of five intellectual games controlled via console.
 
 <b>My LeetCode stats:</b>
 
