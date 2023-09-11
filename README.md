@@ -5,21 +5,23 @@
   </h1>
 </div>
 
-<b>About me</b>
+<b>About me:</b>
 
 :man_student: I am finished my studies at the Hexlet online programming school and and **```looking for a job```**.
 
-<b>My CV</b>
+<b>My CV:</b>
+
 https://cv.hexlet.io/ru/resumes/2538
 
-<b>My contacts</b>
+<b>My contacts:</b>
+
 - 📧 email: Mark_sur@mail.ru
 - 📱telegram: https://t.me/JavaMarkDem
 
-<b>My skills</b>
+<b>My skills:</b>
 
 
-<b>My projects</b>
+<b>My projects:</b>
 
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
 - Task management system.
@@ -29,15 +31,11 @@ https://cv.hexlet.io/ru/resumes/2538
 - This site analyzes the pages indicated to it for SEO suitability. 
 - <b>Stack:</b> Java 17, Git, Gradle, Code Climate, JUnit5, Javalin 5.5.0, DB - (H2, PostgreSQL), Ebean, Thymeleaf, Bootstrap, Unirest,MockWebServer, Docker, Render.
 
-- 
+
 
 [Data Validator](https://github.com/evgeniy1503/java-project-78)
 - A library with which you can check the correctness of any data. 
 - <b>Stack:</b> OOP, SOLID, JUnit, TDD, DSL
-
-
-
-
 
 [Mind Games:](https://github.com/evgeniy1503/java-project-lvl1)
 - A set of five console games. 
@@ -47,13 +45,10 @@ https://cv.hexlet.io/ru/resumes/2538
 - A program that determines the difference between two data structures. 
 - <b>Stack:</b> Java Collections Framework, JUnit, TDD, CLI Builder (picocli), Jackson, Test Coverage, json, yaml
 
+<b>My LeetCode stats:</b>
 
-
-
-
-
-<b>My LeetCode stats</b>
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MarkDementev&theme=dark)](https://leetcode.com/MarkDementev/)
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats:</b>
+
 [![MarkDementev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkDementev&theme=dark)](https://github.com/MarkDementev/github-readme-stats)
