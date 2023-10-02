@@ -39,6 +39,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<b>My LeetCode stats:</b>
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MarkDementev&theme=dark)](https://leetcode.com/MarkDementev/)
+
 <b>My projects:</b>
 
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
@@ -55,10 +59,6 @@
 
 [Mind Games](https://github.com/MarkDementev/Mind-games)
 - A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
-
-<b>My LeetCode stats:</b>
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MarkDementev&theme=dark)](https://leetcode.com/MarkDementev/)
 
 <b>My GitHub Stats:</b>
 
