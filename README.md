@@ -19,6 +19,7 @@
 
 - 📧 email: Mark_sur@mail.ru
 - 📱telegram: https://t.me/JavaMarkDem
+- ВК: https://vk.com/javamarkdem
 
 <b>Skills:</b>
 
