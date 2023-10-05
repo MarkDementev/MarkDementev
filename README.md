@@ -59,7 +59,3 @@ I am **```looking for a job```**.
 
 [Mind Games](https://github.com/MarkDementev/Mind-games)
 - A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
-
-<b>My GitHub Stats:</b>
-
-[![MarkDementev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkDementev&theme=dark)](https://github.com/MarkDementev/github-readme-stats)
