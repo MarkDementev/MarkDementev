@@ -38,7 +38,7 @@ I am **```looking for a job```**.
 
 <b>My LeetCode stats:</b>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MarkDementev&theme=dark)](https://leetcode.com/MarkDementev/)
+[![MarkDementev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MarkDementev&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <b>My projects:</b>
 
