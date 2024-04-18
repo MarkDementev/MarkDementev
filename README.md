@@ -11,8 +11,9 @@ I am **```looking for a job!```**
 
 <b>My CV:</b>
 
-📄 [https://drive.google.com/drive/folders/1tJI-IWJwQBhP_n46ly6FcJwIiUgXMe3y](https://spb.hh.ru/resume/316bbc37ff0c5f99eb0039ed1f416f5475684c?hhtmFrom=resume_list)
-📄 [https://drive.google.com/drive/folders/1tJI-IWJwQBhP_n46ly6FcJwIiUgXMe3y](https://career.habr.com/markdementev)
+📄 https://spb.hh.ru/resume/316bbc37ff0c5f99eb0039ed1f416f5475684c?hhtmFrom=resume_list
+
+📄 https://career.habr.com/markdementev
 
 <b>Contacts:</b>
 
