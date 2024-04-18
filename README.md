@@ -37,6 +37,9 @@ I am **```looking for a job!```**
 
 <b>My projects:</b>
 
+[Tickutil](https://github.com/MarkDementev/Tickutil)
+- Utility calculates 2 type of values in JSON file with array of air tickets. You can add city codes to specify the calculation.
+
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
 - Task management system. It allows you to set tasks, assign performers and change their statuses. Registration and authentication are required to work with the system.
 
