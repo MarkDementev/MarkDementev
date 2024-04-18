@@ -38,6 +38,9 @@ I am **```looking for a job!```**
 
 <b>My projects:</b>
 
+[WebWallet](https://github.com/MarkDementev/WebWallet)
+- Spring Boot REST application. Provides storage and modification of wallets amount data. It is stable to work with a multithreaded requests. The application and database are using Docker Compose.
+
 [Tickutil](https://github.com/MarkDementev/Tickutil)
 - Utility calculates 2 type of values in JSON file with array of air tickets. You can add city codes to specify the calculation.
 
