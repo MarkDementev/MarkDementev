@@ -16,7 +16,7 @@ I am **```looking for a job!```**
 <b>Contacts:</b>
 
 - 📧 email: Mark_sur@mail.ru
-- 📱telegram: https://t.me/JavaMarkDem
+- 📱 telegram: https://t.me/JavaMarkDem
 
 <b>Skills:</b>
 
