@@ -41,7 +41,7 @@ I am **```looking for a job!```**
 
 <b>My projects:</b>
 
-[JMD_Assets_Data](https://github.com/MarkDementev/JMD_Assets_Data)
+[JMD Assets Data](https://github.com/MarkDementev/JMD_Assets_Data)
 - Spring Boot REST application – web-service for storing data of investing assets.
 
 [WebWallet](https://github.com/MarkDementev/WebWallet)
