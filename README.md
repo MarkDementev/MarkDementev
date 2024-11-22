@@ -38,7 +38,7 @@ I am **```looking for a job!```**
 <b>My projects:</b>
 
 [JMD Assets Data](https://github.com/MarkDementev/JMD_Assets_Data)
-- Spring Boot REST application – web-service for storing data of investing assets.
+- Spring Boot REST application – web-service for storing data of investing assets. The service is intended for private investors who do not have enough brokerage applications to control their own assets. This problem often arises for investors with average capital, the size of which is already larger than the market average, but less than for creating a family office.
 
 [WebWallet](https://github.com/MarkDementev/WebWallet)
 - Spring Boot REST application. Provides storage and modification of wallets amount data. It is stable to work with a multithreaded requests. The application and PostgreSQL database are using Docker Compose.
