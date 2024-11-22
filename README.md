@@ -35,10 +35,6 @@ I am **```looking for a job!```**
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<b>My LeetCode stats:</b>
-
-[![MarkDementev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MarkDementev&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-
 <b>My projects:</b>
 
 [JMD Assets Data](https://github.com/MarkDementev/JMD_Assets_Data)
@@ -64,3 +60,7 @@ I am **```looking for a job!```**
 
 [Mind Games](https://github.com/MarkDementev/Mind-games)
 - A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
+
+<b>My LeetCode stats:</b>
+
+[![MarkDementev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MarkDementev&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
