@@ -11,14 +11,14 @@ I am **```looking for a job!```**
 
 <b>My CV:</b>
 
-📄 https://spb.hh.ru/resume/316bbc37ff0c5f99eb0039ed1f416f5475684c?hhtmFrom=resume_list
+📄 https://career.habr.com/javamarkdem
 
-📄 https://career.habr.com/markdementev
+📄 https://spb.hh.ru/resume/316bbc37ff0c5f99eb0039ed1f416f5475684c?hhtmFrom=resume_list
 
 <b>Contacts:</b>
 
-- 📧 email: Mark_sur@mail.ru
 - 📱 telegram: https://t.me/JavaMarkDem
+- 📧 email: Mark_sur@mail.ru
 
 <b>Skills:</b>
 
@@ -40,6 +40,9 @@ I am **```looking for a job!```**
 [![MarkDementev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MarkDementev&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <b>My projects:</b>
+
+[JMD_Assets_Data](https://github.com/MarkDementev/JMD_Assets_Data)
+- Spring Boot REST application – web-service for storing data of investing assets.
 
 [WebWallet](https://github.com/MarkDementev/WebWallet)
 - Spring Boot REST application. Provides storage and modification of wallets amount data. It is stable to work with a multithreaded requests. The application and PostgreSQL database are using Docker Compose.
