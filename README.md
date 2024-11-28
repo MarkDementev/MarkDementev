@@ -38,7 +38,8 @@ I am **```looking for a job!```**
 <b>My projects:</b>
 
 [JMD Assets Data](https://github.com/MarkDementev/JMD_Assets_Data)
-- Spring Boot REST application – web-service for storing data of investing assets. Designed for private investors who find brokerage apps insufficient. The problem often arises for investors with average capital, the size of which is greater than the market median, but less than for creating a family office. For security, Spring Security and database encryption using Jasypt are used. Hibernate, Liquibase, PostgreSQL are used to work with data. The application is covered by tests with JUnit 5 and Testcontainers by 96%. Logback and the AOP paradigm are used for logging.
+- Spring Boot REST application – web-service for storing data of investing assets. Designed for private investors who find brokerage apps insufficient. The problem often arises for investors with average capital, the size of which is greater than the market median, but less than for creating a family office.
+- For security, Spring Security and database encryption using Jasypt are used. Hibernate, Liquibase, PostgreSQL are used to work with data. The application is covered by tests with JUnit 5 and Testcontainers by 96%. Logback and the AOP paradigm are used for logging.
 Application and database containers use Docker Compose.
 
 [WebWallet](https://github.com/MarkDementev/WebWallet)
