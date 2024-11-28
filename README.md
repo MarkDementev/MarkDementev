@@ -38,25 +38,25 @@ I am **```looking for a job!```**
 <b>My projects:</b>
 
 [JMD Assets Data](https://github.com/MarkDementev/JMD_Assets_Data)
-- Spring Boot REST application – web-service for storing data of investing assets. The service is intended for private investors who do not have enough brokerage applications to control their own assets. This problem often arises for investors with average capital, the size of which is already larger than the market average, but less than for creating a family office.
+- Spring Boot REST application – web-service for storing data of investing assets. Designed for private investors who find brokerage apps insufficient. The problem often arises for investors with average capital, the size of which is greater than the market median, but less than for creating a family office.
 
 [WebWallet](https://github.com/MarkDementev/WebWallet)
-- Spring Boot REST application. Provides storage and modification of wallets amount data. It is stable to work with a multithreaded requests. The application and PostgreSQL database are using Docker Compose.
+- Spring Boot REST application. Provides storage and modification of data on amounts in bank accounts. Works stably with multi-threaded requests. Docker Compose is used.
 
 [Tickutil](https://github.com/MarkDementev/Tickutil)
-- Utility calculates 2 type of values in JSON file with array of air tickets. You can add city codes to specify the calculation.
+- Console utility for parsing data and making calculations from JSON files with information on airline tickets.
 
 [Task Manager](https://github.com/MarkDementev/Task-Manager)
-- Task management system. It allows you to set tasks, assign performers and change their statuses. Registration and authentication are required to work with the system.
+- Task management system based on Spring Boot. Allows you to set tasks, assign performers, change their statuses. Supports authentication and authorization via Spring Security.
 
 [Page Analyzer](https://github.com/MarkDementev/Page-analyzer)
-- This site analyzes the pages indicated to it for SEO suitability.
+- A Javalin-based website that analyzes pages for SEO suitability.
  
 [Data Validator](https://github.com/MarkDementev/Data-validator)
-- Library for data validation. This project contains functionality for strings, numbers and maps validation. Map validation provides structure verification functionality.
+- A library for data validation based on the fluent interface. It has a wide application, since data validation is a necessary part of the logic of almost any project.
 
 [Diff Finder](https://github.com/MarkDementev/Diff-finder)
-- A program to find differences between data in two files. For input files, popular formats are supported - json and yaml. The output of differences is also possible in different versions - plain, stylish and json.
+- A command-line utility based on the picocli library to find differences between data in two files. For input files, popular formats are supported - JSON and YAML. The output of differences is also possible in different versions, including in JSON.
 
 [Mind Games](https://github.com/MarkDementev/Mind-games)
 - A set of five intellectual games controlled via console. Each game asks questions that need to be answered correctly.
